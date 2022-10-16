@@ -2,6 +2,9 @@ import styles from "./Styles/AboutSection.module.css"
 import Fade from "react-reveal/Fade"
 
 export function AboutSection() {
+
+// about
+
   return (
     <div className={styles.rootCont} id="about">
       <Fade bottom>

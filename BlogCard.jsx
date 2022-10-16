@@ -10,6 +10,10 @@ export function BlogCard({ name, img, link, about }) {
           {name}
         </p>
 
+{/* 
+
+
+hello */}
         <div className={styles.linkCont}>
           <a href={link} rel="noreferrer" target="_blank">
             <div className={styles.linkDiv}>
